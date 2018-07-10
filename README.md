@@ -34,6 +34,13 @@ You should have received a copy of the GNU General Public License
 along with Damn Vulnerable Web Application (DVWA).  If not, see http://www.gnu.org/licenses/.
 
 - - -
+
+## Deploy on Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+You can create a free Heroku account and click the above button to quickly deploy an instance of DVWA.
+
 ## Download and install as a docker container
 - [dockerhub page](https://hub.docker.com/r/vulnerables/web-dvwa/)
 `docker run --rm -it -p 80:80 vulnerables/web-dvwa`
